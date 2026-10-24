@@ -1,8 +1,6 @@
-Hasan, welcome to your next Linux lesson! Today, we're going to study **Linux File Management from a professional, real-world perspective**. I'll teach you as a Linux instructor would teach an aspiring system administrator, DevOps engineer, or security engineer.
+# deletion and danger zone
 
-Our goal is not simply to memorise commands. You should understand **what each command does, when to use it, how to use it safely, and how professionals apply it in real working environments.**
-
-# Linux File Management: Professional Training
+## Linux File Management: Professional Training
 
 **Level:** Beginner to Advanced  
 **Learning approach:** Concepts → Commands → Practical examples → Real-world scenarios → Safety rules → Assessment
